@@ -124,15 +124,7 @@ Linux:
 - Latest version of Python.
 - Linux recent version.
 
-⏳・Installation:
-Dowloads "RedTiger-Tools.zip" Here
 
-1 - Download the .zip folder.
-2 - Extract or unzip the folder.
-3 - Launch "Setup.bat" or "Setup.py".
-Or
-
-1 - Open a terminal.
 2 - Write "git clone https://github.com/loxyteck/RedTiger-Tools.git"
 3 - Write "cd RedTiger-Tools"
 4 - Write "git pull"
