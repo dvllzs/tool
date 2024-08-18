@@ -125,8 +125,6 @@ Linux:
 - Linux recent version.
 
 
-2 - Write "git clone https://github.com/loxyteck/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
-4 - Write "git pull"
+
 5 - Write "python Setup.py"
 ⚠️・Terms of use:
